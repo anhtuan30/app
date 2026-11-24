@@ -37,6 +37,5 @@ public class DetailActivity extends AppCompatActivity {
             finish();
         });
     }
-}
-
+}//ghtja
 
